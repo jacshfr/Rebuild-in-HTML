@@ -6,7 +6,17 @@ Rebuild-in-HTML
 
 Website is http://gonetyourself.com
 
-Lots of links with video imbedded and a few lists.
+Title is link
+Nav list
+article
+three links
+three embedded videos
+nav list
+paragraphs
+link
+nav list
+forms
+button
 
 
 References
